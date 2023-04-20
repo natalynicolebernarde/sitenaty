@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>SEU NOME</title>
+	<link rel="stylesheet" type="text/css" href="style.css">
+</head>
+<body>
+	<header>
+		<h1>TITULO PRINCIPAL</h1>
+	</header>
+
+	<main>
+		<section>
+			<h2>Seja bem-vindo!</h2>
+			<p>Este é o meu site. Aqui você encontrará informações sobre mim e meus projetos.</p>
+		</section>
+
+		<section>
+			<div class="Container">
+				<div class="Box">
+					<div class="ImgBox">
+						<a href="projeto1.html"><img src="IMAGEM.JPGE" alt="SEUNOME"/></a>
+					</div>
+					<div class="Content">
+						<h2>NOME</h2>
+						<span> MSG PARA SPAMAR</span>
+					</div>
+
+				</div>
+        
+            </section>
+        </main>
+        <section>
+            <h1>Fatos sobre mim</h1>
+        <ul> 
+            <li>Idade: </li>
+            <li>Cidade: </li>
+            <li>Colégio: </li>
+            <li>Série: </li>
+            <li>????</li>
+            <li>????</li>
+        </ul>
+        </section>
+
+        <footer>
+            <p>&copy; 2023 Meu Site. Todos os direitos reservados.</p>
+        </footer>
+    </body>
+    </html>
